@@ -16,11 +16,6 @@ class Config extends Smpe_Config
 	public static $environment = 0;
 
 	/**
-	 * @var bool url rewrite.
-	 */
-	public static $isRewrite = false;
-
-	/**
 	 * @var array modules
 	 */
 	public static $modules = array(
